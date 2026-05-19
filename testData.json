@@ -1,0 +1,70 @@
+{
+    "credentials": {
+      "email": "admin",
+      "password": "password123"
+    },
+    "testCases": [
+      {
+        "id": 1,
+        "description": "Verify 'Implement user authentication' is in To Do with correct tags",
+        "project": "Web Application",
+        "task": "Implement user authentication",
+        "column": "To Do",
+        "tags": [
+          "Feature",
+          "High Priority"
+        ]
+      },
+      {
+        "id": 2,
+        "description": "Verify 'Fix navigation bug' is in To Do with correct tags",
+        "project": "Web Application",
+        "task": "Fix navigation bug",
+        "column": "To Do",
+        "tags": [
+          "Bug"
+        ]
+      },
+      {
+        "id": 3,
+        "description": "Verify 'Design system updates' is in In Progress with correct tags",
+        "project": "Web Application",
+        "task": "Design system updates",
+        "column": "In Progress",
+        "tags": [
+          "Design"
+        ]
+      },
+      {
+        "id": 4,
+        "description": "Verify 'Push notification system' is in To Do with correct tags",
+        "project": "Mobile Application",
+        "task": "Push notification system",
+        "column": "To Do",
+        "tags": [
+          "Feature"
+        ]
+      },
+      {
+        "id": 5,
+        "description": "Verify 'Offline mode' is in In Progress with correct tags",
+        "project": "Mobile Application",
+        "task": "Offline mode",
+        "column": "In Progress",
+        "tags": [
+          "Feature",
+          "High Priority"
+        ]
+      },
+      {
+        "id": 6,
+        "description": "Verify 'App icon design' is in Done with correct tags",
+        "project": "Mobile Application",
+        "task": "App icon design",
+        "column": "Done",
+        "tags": [
+          "Design"
+        ]
+      }
+    ]
+  }
